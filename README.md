@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, soy Felipe Duarte Valdés</h1>
+<h1 align="center">Hola 👋, soy Felipe Duarte Valdes</h1>
 <h3 align="center">Ingeniero Civil en Computación e Informática | Desarrollador FrontEnd</h3>
 
 <p align="center">

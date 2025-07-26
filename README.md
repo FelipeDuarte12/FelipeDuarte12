@@ -29,7 +29,7 @@ Soy ingeniero civil en computación e informática, apasionado por el desarrollo
 ### 🛠️ Tecnologías & Herramientas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,mysql,bootstrap,git,github,postman" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,mysql" alt="Tech Stack" />
 </p>
 
 ---
